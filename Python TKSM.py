@@ -1,11 +1,11 @@
-'''
+
 greetings = "Hello version {greetings:.2f}!"
 print(greetings.format(greetings = 1))
 #import random #import random for the random square option
 import math #import math for finding the area of the circle shapes
 import random #import random is for the random square
 from math import pi
-'''
+
 #this checks for the password if its correct or not
 def check_password():
     for i in range(3):
